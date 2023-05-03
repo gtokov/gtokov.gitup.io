@@ -1,0 +1,15 @@
+h2 {
+    color: orange;
+}
+#demo {
+    color: green;
+}
+.myclass {
+    color: blue;
+}
+a{
+    margin: 40px;
+    padding: 10px;
+    border: 5px solid black;
+}
+
